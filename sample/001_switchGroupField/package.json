@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "upload": "./node_modules/@kintone/customize-uploader/bin/cli.js",
     "lint": "./node_modules/eslint/bin/eslint.js"
   },
   "author": "",
